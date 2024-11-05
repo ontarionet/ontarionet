@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[安大略中文网](https://ontarionet.ca/)是加拿大安大略省的本地华语新闻聚合网站，向安省本地华人每日更新中文新闻资讯。我们专注于提供新闻导读，指引读者前往信息来源，直接获取可靠的新闻内容。
+
+[Ontario Chinese Network](https://ontarionet.ca/) is a local Chinese-language news aggregation site in Ontario, Canada. We provide daily news updates in Chinese for the local Chinese community. We focus on offering news summaries that guide readers to the original sources for direct access to reliable news content.
+
 <!--
 **ontarionet/ontarionet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
